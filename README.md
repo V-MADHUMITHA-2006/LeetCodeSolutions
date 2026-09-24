@@ -9,6 +9,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0268-missing-number](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -46,11 +47,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/0015-3sum/) | Medium |
 | [0268-missing-number](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/0268-missing-number/) | Easy |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +74,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1603-design-parking-system](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/1603-design-parking-system/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Euclidean Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+## Greatest Common Divisor
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2344-minimum-deletions-to-make-array-divisible](https://github.com/V-MADHUMITHA-2006/LeetCodeSolutions/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 <!---LeetCode Topics End-->
